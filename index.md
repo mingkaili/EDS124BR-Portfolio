@@ -4,7 +4,7 @@
 
 ## Table of Contents
 **[About Me](#About-Me)**<br>
-**[Experiences/Internships](#Experiences/Internships)**<br>
+**[Experiences And Internships](#Experiences-And-Internships)**<br>
 **[Interesting Projects](#Interesting-Projects)**<br>
 **[Favorite Quotes](#Favorite-Quotes)**<br>
 
@@ -29,7 +29,7 @@ My name is Mingkai Li, you can call me **Thomas**, and I am a thrid year CSE stu
 
 ![Me](assets/Thomas_Li.jpg "Me")
 
-## Experiences/Internships
+## Experiences And Internships
 ### [Proko Tech LLC](https://www.prokopark.us/)
 I was one of the seven co-founders of this startup, my role is to develop
 software, and design infrastructure. The company's mission is to create a 
