@@ -1,7 +1,3 @@
-# Mingkai's User Page
+# CSE 110 - Lab 1
 
-## Favorite Programming Langauges:
-- TypeScript/JavaScript
-- Python
-- Java
-- C/C++
+[Link to Github Page]()
