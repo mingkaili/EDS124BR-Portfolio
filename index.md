@@ -3,10 +3,10 @@
 ***NOTE:*** This is not the project's README, [actual link to README](README.md)
 
 ## Table of Contents
-**[About Me](#About-Me)**<br>
-**[Experiences And Internships](#Experiences-And-Internships)**<br>
-**[Interesting Projects](#Interesting-Projects)**<br>
-**[Favorite Quotes](#Favorite-Quotes)**<br>
+**[About Me](#about-Me)**<br>
+**[Experiences And Internships](#experiences-and-internships)**<br>
+**[Interesting Projects](#interesting-projects)**<br>
+**[Favorite Quotes](#favorite-quotes)**<br>
 
 ## About Me
 ```javascript
