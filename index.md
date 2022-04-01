@@ -1,4 +1,4 @@
 # Mingkai
 
 # Portfolio:
-- Draw a house: https://youtu.be/YHBpx8nEJVc
+- [Draw a house code walkthrough](https://youtu.be/YHBpx8nEJVc)
