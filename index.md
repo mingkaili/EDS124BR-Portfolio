@@ -5,3 +5,4 @@
 - [Repeat blocks](https://youtu.be/J2jODnsfXv0)
 - [Animal Parade Quest](https://youtu.be/wPpTY04VEFY)
 - [Nested loop with mouse](https://youtu.be/N9sTK8XhDaE)
+- [Event code - Banana catching](https://youtu.be/fFReIMe9B0I)
